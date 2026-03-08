@@ -188,4 +188,4 @@ Developed as part of a **Machine Learning / Computer Vision learning project**.
 ---
 ## Face Detection Example
 
-![Face Detection](image_classfier.png)
+![Face Detection](image_classifier.png)
